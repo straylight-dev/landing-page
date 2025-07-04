@@ -1,1 +1,2 @@
 # landing-page
+This project will demonstrate my ability to create a webpage. I will create a html file that has the basic structure of modern webpages. I will then add css specifically using flexbox to give the webpage a modern style and look to it.
